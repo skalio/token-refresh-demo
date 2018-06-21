@@ -1,0 +1,20 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Henning Verbeek",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.0.0"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "3.3.0",
+    "webpack": "3.8.1",
+    "webpack-dev-server": "2.9.4",
+    "typescript": "2.7.2"
+  }
+}
